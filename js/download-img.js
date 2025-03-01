@@ -1,7 +1,8 @@
 $(document).ready( function() {
-    const characterBuild = $("#character-name").text().replaceAll(" ","-").toLowerCase();
+    let characterBuild;
 
     $(document).on('click', '#download-one', function() {
+        characterBuild = $("#character-name").text().replaceAll(" ","-").toLowerCase();
         // Selecciona el card completo
         let element = document.querySelectorAll('#card');
 
@@ -9,6 +10,7 @@ $(document).ready( function() {
     });
 
     $(document).on('click', '#download-all', function() {
+        characterBuild = $("#character-name").text().replaceAll(" ","-").toLowerCase();
         // Selecciona todos los elementos
         let elements = document.querySelectorAll('.screen__item');
 

@@ -1,6 +1,6 @@
 # Character Build Generator Template (ZZZ Builds DX Continuation)
 
-## Descripción
+## Description
 
 This project is an interactive web template designed for creating character builds in games. It allows users to customize and edit various elements of a character, including:
 

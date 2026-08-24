@@ -1,25 +1,27 @@
-# Character Build Generator Template
+# Character Build Generator Template (ZZZ Builds DX Continuation)
 
 ## Descripción
 
-Este proyecto es una plantilla web interactiva diseñada para la creación de composiciones de personajes (builds) en juegos. Permite a los usuarios personalizar y editar diversos elementos de un personaje, incluyendo:
+This project is an interactive web template designed for creating character builds in games. It allows users to customize and edit various elements of a character, including:
 
-- **Habilidades prioritarias:** Determina el orden en que deben subirse las habilidades del personaje.
-- **Cinemas recomendados:** Selecciona los mejores cinemas (escenas o ataques especiales) que potencian el personaje.
-- **W-Engine y Drive Disks:** Configura el motor y discos recomendados para optimizar el rendimiento del personaje.
-- **Composición de equipos:** Crea y ajusta equipos de personajes para maximizar la sinergia y efectividad en combate.
+- **Priority skills:** Determines the order in which the character's skills should be leveled up.
+- **Recommended cinemas:** Selects the best cinemas (scenes or special attacks) that enhance the character.
+- **W-Engine and Drive Disks:** Sets up the recommended engine and disks to optimize the character's performance.
+- **Team composition:** Creates and adjusts character teams to maximize synergy and combat effectiveness.
 
-Una vez configurado, la página permite generar y descargar una imagen personalizada con la composición del personaje, ideal para compartir o utilizar como referencia.
+Once set up, the page lets you generate and download a custom image with the character's composition, perfect for sharing or using as a reference.
 
-Pagina: https://iwashux.github.io/template-builds-zenless_zone_zero/
+This version is a continuation aimed towards trying to include the content from up to the newest updates offered by the Zenless team (Hoyoverse), which includes new Agents, W-Engines, etc
 
-## Características
+Site: Not Available atm
 
-- **Interfaz Interactiva:** Edita y ajusta cada elemento de la composición del personaje en tiempo real.
-- **Generación de Imágenes:** Crea y descarga imágenes de alta calidad con la configuración personalizada del personaje.
-- **Diseño adaptable:** En proceso.
+## Features
 
-## Capturas de Pantalla
+- **Interactive Interface:** Edit and adjust every element of the character's composition in real time
+- **Image Generation:** Create and download high-quality images with the character's custom settings.
+- **Adaptive Design:** In progress.
+
+## Sceenshots
 
 ![Screenshot 2024-08-30 193257](https://github.com/user-attachments/assets/ccf9d204-6de5-496a-9c81-5583f08ab2e6)
 
@@ -27,25 +29,26 @@ Pagina: https://iwashux.github.io/template-builds-zenless_zone_zero/
   <img src="https://github.com/user-attachments/assets/f9ad605f-ce43-4fbc-9000-2fd43882ef2c" alt="imagen1" width="500"/>
 </p>
 
-## Instalación
+## Installation
 
-1. Clona este repositorio:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/Iwashux/template-builds-zenless_zone_zero.git
+   git clone https://github.com/BBGofficial/zzzbuildsdx.git
    ```
-2. En caso de desear descargar las imagenes se necesita de un servidor local como Live Server de VS
-3. Abre `index.html` en tu navegador.
+2. In case you want to download the images, you need a local server like VS Live Server. 3. Open `index.html` in your browser.
 
-## Uso
+## Use
 
-1. Selecciona un personaje y comienza a editar sus estadísticas y habilidades.
-2. Ajusta las recomendaciones de W-Engine, Drive Disks y composiciones de equipo.
-3. Guarda la configuración como una imagen descargable para usarla o compartirla.
+1. Select a character and start editing their stats and skills.
+2. Adjust the W-Engine recommendations, Drive Disks, and team
+3. Save the setup as a downloadable image to use or share.
 
-## Créditos
+## Credits
+
+Special credits goes to the original creator, Iwashux
 
 Este proyecto está basado en el diseño de Its_Eon y gt_eon.
 
-## Licencia
+## Licence
 
-Este proyecto está licenciado bajo la [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
